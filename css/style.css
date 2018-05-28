@@ -34,7 +34,7 @@ body a:hover{
 }
 /*-- banner --*/ 
 .banner{ 
-	background:url(../images/ban1.jpg)no-repeat center bottom;
+	background:url(../images/ban1.png)no-repeat center bottom;
 	-webkit-background-size:cover; 
 	-moz-background-size:cover; 
 	-o-background-size:cover;
